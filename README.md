@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammedsabith93/leetcodess/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/muhammedsabith93/leetcodess/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedsabith93/leetcodess/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/muhammedsabith93/leetcodess/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedsabith93/leetcodess/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/muhammedsabith93/leetcodess/tree/master/1672-richest-customer-wealth) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedsabith93/leetcodess/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedsabith93/leetcodess/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
