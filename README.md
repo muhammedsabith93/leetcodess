@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muhammedsabith93/leetcodess/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedsabith93/leetcodess/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/muhammedsabith93/leetcodess/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -54,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedsabith93/leetcodess/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/muhammedsabith93/leetcodess/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muhammedsabith93/leetcodess/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/muhammedsabith93/leetcodess/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
