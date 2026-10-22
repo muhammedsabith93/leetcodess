@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muhammedsabith93/leetcodess/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedsabith93/leetcodess/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/muhammedsabith93/leetcodess/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedsabith93/leetcodess/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/muhammedsabith93/leetcodess/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/muhammedsabith93/leetcodess/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammedsabith93/leetcodess/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/muhammedsabith93/leetcodess/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/muhammedsabith93/leetcodess/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
@@ -66,9 +69,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/muhammedsabith93/leetcodess/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/muhammedsabith93/leetcodess/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/muhammedsabith93/leetcodess/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
