@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedsabith93/leetcodess/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/muhammedsabith93/leetcodess/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/muhammedsabith93/leetcodess/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedsabith93/leetcodess/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/muhammedsabith93/leetcodess/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammedsabith93/leetcodess/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/muhammedsabith93/leetcodess/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/muhammedsabith93/leetcodess/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/muhammedsabith93/leetcodess/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/muhammedsabith93/leetcodess/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/muhammedsabith93/leetcodess/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
